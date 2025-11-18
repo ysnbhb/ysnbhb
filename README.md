@@ -21,9 +21,9 @@
 
 | Project | Description | Tech Stack | Stars | Live Demo / Link |
 |---------|-------------|------------|-------|------------------|
-| **[01blog](https://github.com/ysnbhb/01blog)** | Production-ready blog platform with user auth, posts, comments, reactions, notifications, media uploads & admin panel | Spring Boot • Angular • JWT • JPA • MySQL | ![Stars](https://img.shields.io/github/stars/ysnbhb/01blog?style=social) | Coming soon (deploying...) |
+| **[01blog](https://github.com/ysnbhb/01blog)** | Production-ready blog platform with user auth, posts, comments, reactions, notifications, media uploads & admin panel | Spring Boot • Angular • JWT • JPA • MySQL | ![Stars](https://img.shields.io/github/stars/ysnbhb/01blog?style=social) | - |
 | **[0-shell](https://github.com/ysnbhb/0-shell)** | Unix-like shell from scratch with custom parser, builtins, signal handling & colored prompt (4⭐) | Rust • Tokio (async-ready) | ![Stars](https://img.shields.io/github/stars/ysnbhb/0-shell?style=social) | `cargo run` |
-| **social-network** | Mini social platform prototype (profiles, posts, likes) | JavaScript • Node.js • MongoDB | - | Private demo |
+| **social-network** | Mini social platform prototype (profiles, posts, likes) | JavaScript • Node.js • MongoDB | - | - |
 | **jart** | Java REST API playground (Zone01 project) | Java • Spring Boot | - | - |
 | **atm** | Simulated banking ATM in C | C • Low-level systems | ⭐ | - |
 | **piscine-go** | Go exercises & mini-projects | Go | - | - |
