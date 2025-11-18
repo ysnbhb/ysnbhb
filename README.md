@@ -38,7 +38,7 @@
 - Building a Rust/Actix-web version of 01blog's API (for fun & performance)
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yassine-bahbib/](https://www.linkedin.com/in/yassine-bahbib-7903b82a6/) <!-- Add your real link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yassine-bahbib/](https://www.linkedin.com/in/yassine-bahbib-7903b82a6/)) <!-- Add your real link -->
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yassine.bahbib@usmba.ac.ma) <!-- Add your email -->
 
 Feel free to star ⭐ my repos if you find them useful!  
